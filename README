@@ -1,1 +1,3 @@
-Finished Project. Shell Program.
+This is a project I made for my Operating Systems Class. It is an artificial Unix shell Program.
+It has the original functionalities of a shell using fork and execv.
+It also has additional functionality such as redirecting output.
